@@ -1,4 +1,4 @@
-let userc = "svxy"
+let user = "svxy"
 
 function _0x47c9() {
     var _0x46400e = ['count', '1444kpZFLX', '3389238nbXsJD', '1275480lYfIZU', '358KuXyCL', '215369AVMwha', 'data', 'https://api.kickalerts.live/api/v1/proxy/viewcount', '1178700GlVlKS', 'innerHTML', '42KXmCZn', '12315RekTyP', '377736bqWrux', '1753BJOooF', '44kKKtIM', 'log'];
@@ -31,7 +31,7 @@ function _0x168f(_0x4b5253, _0x5b96ba) {
 async function update() {
     var _0x446d91 = _0x168f;
     axios['post'](_0x446d91(0x1d1), {
-        'username': userc
+        'username': user
     })['then'](_0x223c5d => {
         var _0x4fce02 = _0x446d91;
         console['log'](_0x223c5d[_0x4fce02(0x1d0)]), _0x223c5d[_0x4fce02(0x1d0)][_0x4fce02(0x1ca)] && (document['getElementById'](_0x4fce02(0x1ca))[_0x4fce02(0x1d3)] = _0x223c5d[_0x4fce02(0x1d0)]['count']);
