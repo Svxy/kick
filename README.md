@@ -18,7 +18,7 @@
 
 <br>
 
-<h4 align=center><b>So to actually put this into perspective, <a hrtef='https://widgets.kickalerts.live/'>KickAlerts</a> is a third party service you can use through <a href='https://discord.com/invite/kickalerts'>Discord</a>, that uses an api to send kick data to endpoints for users, kick data such as current viewers, follower goals etc.. Essentially what this is, is the same endpoint you'd get from using their Viewer Count service, but with customized css, html, a custom file structure and localized scripts (not images).</b></h4>
+<h4 align=center><b>So to actually put this into perspective, <a href='https://widgets.kickalerts.live/'>KickAlerts</a> is a third party service you can use through <a href='https://discord.com/invite/kickalerts'>Discord</a>, that uses an api to send kick data to endpoints for users, kick data such as current viewers, follower goals etc.. Essentially what this is, is the same endpoint you'd get from using their Viewer Count service, but with customized css, html, a custom file structure and localized scripts (not images).</b></h4>
 
 <br>
 
