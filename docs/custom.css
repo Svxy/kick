@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');
+
+.kick-logo {
+  width: 69px;
+  height: 71px;
+  transform: translateY(-30px);
+  filter: hue-rotate(135deg);
+  animation: rainfall 8s linear infinite;
+}
+
+#count {
+    font-size: 102px;
+    border-style: none;
+    font-family: Acme, sans-serif;
+    background-image: linear-gradient(125deg, #ff00ff, #0000ff, #ff0000, #ff00ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainfall 8s linear infinite;
+    text-shadow: 0 0 20px rgba(255, 0, 255, 0.5), 0 0 40px rgba(0, 0, 255, 0.5), 0 0 60px rgba(255, 0, 0, 0.5);
+  }
+ 
+  @keyframes rainfall {
+    0% {
+      filter: hue-rotate(135deg) drop-shadow(0 0 10px rgba(255, 0, 0, 0.5));
+    }
+    20% {
+      filter: hue-rotate(190deg) drop-shadow(0 0 10px rgba(0, 255, 0, 0.5));
+    }
+    40% {
+      filter: hue-rotate(90deg) drop-shadow(0 0 10px rgba(0, 0, 255, 0.5));
+    }
+    60% {
+      filter: hue-rotate(180deg) drop-shadow(0 0 10px rgba(255, 0, 0, 0.5));
+    }
+    80% {
+      filter: hue-rotate(270deg) drop-shadow(0 0 10px rgba(0, 255, 0, 0.5));
+    }
+    100% {
+      filter: hue-rotate(320deg) drop-shadow(0 0 10px rgba(0, 0, 255, 0.5));
+    }
+  }
