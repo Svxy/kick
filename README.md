@@ -38,4 +38,4 @@ cd kick
 code .
 ```
 
-### Now that the folder has launched in VSCode, make sure before editing any HTML or CSS, to go into 'user.js' and set the user object to your own kick username.
+#### Now that the folder has launched in VSCode, make sure before editing any HTML or CSS, to go into 'user.js' and set the user object to your own kick username.
