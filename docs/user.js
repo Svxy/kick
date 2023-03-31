@@ -1,4 +1,4 @@
-let user = "svxy"
+let user = "TheSneakyDeveloper"
 
 function _0x47c9() {
     var _0x46400e = ['count', '1444kpZFLX', '3389238nbXsJD', '1275480lYfIZU', '358KuXyCL', '215369AVMwha', 'data', 'https://api.kickalerts.live/api/v1/proxy/viewcount', '1178700GlVlKS', 'innerHTML', '42KXmCZn', '12315RekTyP', '377736bqWrux', '1753BJOooF', '44kKKtIM', 'log'];
