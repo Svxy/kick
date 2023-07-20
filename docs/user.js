@@ -1,4 +1,4 @@
-let user = "TheSneakyDeveloper";
+let user = "SneakyDev";
 
 async function update() {
   axios
